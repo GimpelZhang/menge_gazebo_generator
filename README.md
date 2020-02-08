@@ -23,10 +23,10 @@ The result will be generated in output directory.
 sudo apt-get install gimp
 ```
 
-2. Paint a wall map and a behavior map.
+2. Paint a wall map.
 ``` shell
 gimp
 ```
 
-3. Write a xml file for above maps. For xml defination details, you can refer the README.md file in MengeFileGenerator. 
+3. Now the main xml file and behavior map are no longer needed. 
 
